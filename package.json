@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "d3": "^5.15.0",
     "epoch-charting": "^0.8.4",
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "nivo": "^0.31.0",
     "react": "^16.12.0",
